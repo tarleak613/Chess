@@ -87,11 +87,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Acknowledgements
 
-- [React](https://reactjs.org/)
-- [Socket.io](https://socket.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Chess.js](https://github.com/jhlywa/chess.js)
+I would like to thank my mentor for their guidance and support throughout this project. Their expertise and feedback were invaluable in bringing this application to life.
+CHECK OUT HIS CHANNEL https://www.youtube.com/@sheryians
 
 ---
-
-Feel free to customize this template based on your specific project details and preferences.
