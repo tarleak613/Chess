@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/6ff51bc5-0d91-4f69-99ba-cc07d440f5b0
 
 ## Introduction
 
-This is a real-time chess application built using Socket.io and React 18. The application allows two players to play chess in real-time, with each player's moves being updated live for both players. Spectators can also watch the game but cannot participate.
+This is a real-time chess application built using Socket.io and Node js. The application allows two players to play chess in real-time, with each player's moves being updated live for both players. Spectators can also watch the game but cannot participate.
 
 ## Features
 
@@ -39,11 +39,11 @@ This is a real-time chess application built using Socket.io and React 18. The ap
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/real-time-chess.git
+    git clone https://github.com/tarleak613/Chess.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd real-time-chess
+    cd Chess
     ```
 3. Install the dependencies:
     ```bash
